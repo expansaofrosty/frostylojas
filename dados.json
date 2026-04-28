@@ -1,0 +1,62 @@
+{
+  "geradoEm": "28/04/2026 18:05",
+  "arquivo": "EXPANSÃO_LOJAS_-_DASHBOARD.xlsx",
+  "lojas": [
+    {
+      "num": 1,
+      "nome": "Pacajus I",
+      "uf": "CE",
+      "cidade": "Pacajus",
+      "endereco": "R TABELIAO JOSE GAMA FILHO, 540 - CENTRO - PACAJUS/CE",
+      "status": "Inaugurada",
+      "inauguracao": "02/01/2021",
+      "area": "",
+      "obs": ""
+    },
+    {
+      "num": 2,
+      "nome": "Maracanaú",
+      "uf": "CE",
+      "cidade": "Maracanaú",
+      "endereco": "AV WILSON CAMURÇA, 2600, DIST. INDUSTRIAL - MARACANAÚ/CE",
+      "status": "Inaugurada",
+      "inauguracao": "01/01/2019",
+      "area": "",
+      "obs": ""
+    },
+    {
+      "num": 3,
+      "nome": "Timon MA",
+      "uf": "MA",
+      "cidade": "Timon",
+      "endereco": "AV PRESIDENTE MEDICI, 661, PARQUE PIAUI - TIMON/MA",
+      "status": "Inaugurada",
+      "inauguracao": "02/01/2021",
+      "area": "",
+      "obs": ""
+    },
+    {
+      "num": 4,
+      "nome": "Pontes Vieira",
+      "uf": "CE",
+      "cidade": "Fortaleza",
+      "endereco": "AV. PONTES VIEIRA, 1198, SAO JOAO DO TAUAPE - FORTALEZA/CE",
+      "status": "Inaugurada",
+      "inauguracao": "02/01/2021",
+      "area": "",
+      "obs": ""
+    },
+    {
+      "num": 5,
+      "nome": "Parangaba",
+      "uf": "CE",
+      "cidade": "Fortaleza",
+      "endereco": "AV GODOFREDO MACIEL, 88, PARANGABA - FORTALEZA/CE",
+      "status": "Inaugurada",
+      "inauguracao": "02/01/2021",
+      "area": "",
+      "obs": ""
+    }
+  ],
+  "hist": []
+}
